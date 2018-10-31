@@ -1,0 +1,451 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJdYH43LiAhYARSOpSQhpkv2o",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ5TaJx2KAhYARCMH_oRu-g50",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 37.7855895,
+               "lng" : -122.4137936
+            },
+            "southwest" : {
+               "lat" : 37.7755263,
+               "lng" : -122.4330687
+            }
+         },
+         "copyrights" : "Map data ©2018 Google",
+         "fare" : {
+            "currency" : "USD",
+            "text" : "$2.75",
+            "value" : 2.75
+         },
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "5:29pm",
+                  "time_zone" : "America/Los_Angeles",
+                  "value" : 1528244963
+               },
+               "departure_time" : {
+                  "text" : "5:01pm",
+                  "time_zone" : "America/Los_Angeles",
+                  "value" : 1528243284
+               },
+               "distance" : {
+                  "text" : "2.1 mi",
+                  "value" : 3311
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1679
+               },
+               "end_address" : "155 9th St, San Francisco, CA 94103, USA",
+               "end_location" : {
+                  "lat" : 37.7755263,
+                  "lng" : -122.4137936
+               },
+               "start_address" : "1600 Webster St, San Francisco, CA 94115, USA",
+               "start_location" : {
+                  "lat" : 37.7855895,
+                  "lng" : -122.4313034
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 270
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 211
+                     },
+                     "end_location" : {
+                        "lat" : 37.7843532,
+                        "lng" : -122.4330687
+                     },
+                     "html_instructions" : "Walk to Fillmore St & Geary Blvd",
+                     "polyline" : {
+                        "points" : "}~reFrjgjV^ELE@P@N@Pd@tHb@G`@Ej@GLCRCH`@"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7855895,
+                        "lng" : -122.4313034
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "72 ft",
+                              "value" : 22
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 14
+                           },
+                           "end_location" : {
+                              "lat" : 37.785346,
+                              "lng" : -122.4313342
+                           },
+                           "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eWebster St\u003c/b\u003e toward \u003cb\u003ePost St\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "}~reFrjgjV^ELE@P"
+                           },
+                           "start_location" : {
+                              "lat" : 37.7855895,
+                              "lng" : -122.4313034
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.1 mi",
+                              "value" : 160
+                           },
+                           "duration" : {
+                              "text" : "2 mins",
+                              "value" : 138
+                           },
+                           "end_location" : {
+                              "lat" : 37.7851402,
+                              "lng" : -122.4330461
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePost St\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "m}reFxjgjV@N@Pd@tH"
+                           },
+                           "start_location" : {
+                              "lat" : 37.785346,
+                              "lng" : -122.4313342
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "289 ft",
+                              "value" : 88
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 59
+                           },
+                           "end_location" : {
+                              "lat" : 37.7843532,
+                              "lng" : -122.4330687
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFillmore St\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "c|reFpugjVb@G`@Ej@GLCRCH`@"
+                           },
+                           "start_location" : {
+                              "lat" : 37.7851402,
+                              "lng" : -122.4330461
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1003
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 405
+                     },
+                     "end_location" : {
+                        "lat" : 37.775598,
+                        "lng" : -122.431207
+                     },
+                     "html_instructions" : "Bus towards Third + 20th Streets",
+                     "polyline" : {
+                        "points" : "ewreFtugjVC[@?hAOhCYj@IJAdCYnC]RCRCxDe@x@K~BYxDc@h@INA`CYdDa@TCvDe@n@I?H"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7843532,
+                        "lng" : -122.4330687
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 37.775598,
+                              "lng" : -122.431207
+                           },
+                           "name" : "Fillmore St & Hayes St"
+                        },
+                        "arrival_time" : {
+                           "text" : "5:12pm",
+                           "time_zone" : "America/Los_Angeles",
+                           "value" : 1528243921
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 37.7843532,
+                              "lng" : -122.4330687
+                           },
+                           "name" : "Fillmore St & Geary Blvd"
+                        },
+                        "departure_time" : {
+                           "text" : "5:05pm",
+                           "time_zone" : "America/Los_Angeles",
+                           "value" : 1528243500
+                        },
+                        "headsign" : "Third + 20th Streets",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "San Francisco Municipal Transportation Agency",
+                                 "url" : "http://www.sfmta.com/"
+                              }
+                           ],
+                           "name" : "Fillmore",
+                           "short_name" : "22",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 6
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "200 ft",
+                        "value" : 61
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 37.775804,
+                        "lng" : -122.430834
+                     },
+                     "html_instructions" : "Walk to Hayes St & Fillmore St",
+                     "polyline" : {
+                        "points" : "o`qeF`jgjV?@i@FAQGaAJA"
+                     },
+                     "start_location" : {
+                        "lat" : 37.775598,
+                        "lng" : -122.431207
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "92 ft",
+                              "value" : 28
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 18
+                           },
+                           "end_location" : {
+                              "lat" : 37.7758168,
+                              "lng" : -122.4311713
+                           },
+                           "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eFillmore St\u003c/b\u003e toward \u003cb\u003eHayes St\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "o`qeF`jgjV?@i@FAQ"
+                           },
+                           "start_location" : {
+                              "lat" : 37.775598,
+                              "lng" : -122.431207
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "108 ft",
+                              "value" : 33
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 24
+                           },
+                           "end_location" : {
+                              "lat" : 37.775804,
+                              "lng" : -122.430834
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHayes St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "{aqeFxigjVGaAJA"
+                           },
+                           "start_location" : {
+                              "lat" : 37.7758168,
+                              "lng" : -122.4311713
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 mi",
+                        "value" : 1635
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 539
+                     },
+                     "end_location" : {
+                        "lat" : 37.77741,
+                        "lng" : -122.41634
+                     },
+                     "html_instructions" : "Bus towards Ferry Plaza",
+                     "polyline" : {
+                        "points" : "waqeFtggjVOBa@_GIiA_@}FEo@AWa@aGo@HE?g@FyAPCYC_@c@mGc@_HAKC[g@iIe@_HIe@CWESGw@[gFdBQzAQlC]TS\\{@qDaFDG"
+                     },
+                     "start_location" : {
+                        "lat" : 37.775804,
+                        "lng" : -122.430834
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 37.77741,
+                              "lng" : -122.41634
+                           },
+                           "name" : "Market St & 9th St"
+                        },
+                        "arrival_time" : {
+                           "text" : "5:25pm",
+                           "time_zone" : "America/Los_Angeles",
+                           "value" : 1528244700
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 37.775804,
+                              "lng" : -122.430834
+                           },
+                           "name" : "Hayes St & Fillmore St"
+                        },
+                        "departure_time" : {
+                           "text" : "5:16pm",
+                           "time_zone" : "America/Los_Angeles",
+                           "value" : 1528244160
+                        },
+                        "headsign" : "Ferry Plaza",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "San Francisco Municipal Transportation Agency",
+                                 "url" : "http://www.sfmta.com/"
+                              }
+                           ],
+                           "name" : "Hayes",
+                           "short_name" : "21",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 7
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 342
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 263
+                     },
+                     "end_location" : {
+                        "lat" : 37.7755263,
+                        "lng" : -122.4137936
+                     },
+                     "html_instructions" : "Walk to 155 9th St, San Francisco, CA 94103, USA",
+                     "polyline" : {
+                        "points" : "ykqeFbmdjVXb@_@i@IKf@q@jBiC~AqBHKhA}AHKt@gA"
+                     },
+                     "start_location" : {
+                        "lat" : 37.77741,
+                        "lng" : -122.41634
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "98 ft",
+                              "value" : 30
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 22
+                           },
+                           "end_location" : {
+                              "lat" : 37.7774947,
+                              "lng" : -122.416248
+                           },
+                           "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eMarket St\u003c/b\u003e toward \u003cb\u003e9th St\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "ykqeFbmdjVXb@_@i@IK"
+                           },
+                           "start_location" : {
+                              "lat" : 37.77741,
+                              "lng" : -122.41634
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.2 mi",
+                              "value" : 312
+                           },
+                           "duration" : {
+                              "text" : "4 mins",
+                              "value" : 241
+                           },
+                           "end_location" : {
+                              "lat" : 37.7755263,
+                              "lng" : -122.4137936
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e after Walgreens (on the right)\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "ilqeFpldjVf@q@jBiC~AqBHKhA}AHKt@gA"
+                           },
+                           "start_location" : {
+                              "lat" : 37.7774947,
+                              "lng" : -122.416248
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}~reFrjgjVl@KB`@f@fIdAMx@KRCH`@A[rEi@lIcAzGy@hZoDn@I?Hi@HIsAJAOBk@iIe@mHc@yGu@HaCXGy@mAuQmAiRM}@MkA[gFdBQhFo@TS\\{@qDaFDGXb@_@i@IKf@q@jE{FrC}D"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

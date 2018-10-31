@@ -1,0 +1,100 @@
+Array
+(
+    [JvId] => 4CAE933BCF914ACDA94977B3F8C8B6E4206
+    [JobTitle] => Registered Nurse
+    [Company] => DaVita
+    [AccquisitionDate] => 2018-6-1 7:11 AM
+    [URL] => https://de.jobsyn.org/4CAE933BCF914ACDA94977B3F8C8B6E4206
+    [Location] => San Francisco, California
+    [Fc] => true
+)
+DaVitaSan Francisco, CaliforniaArray
+(
+    [JvId] => 4F841CF754F547D8A6EFD4BA40B7A276206
+    [JobTitle] => Nurse Clinician
+    [Company] => Children's Hospital & Research Center Oakland
+    [AccquisitionDate] => 2018-5-30 6:15 AM
+    [URL] => https://de.jobsyn.org/4F841CF754F547D8A6EFD4BA40B7A276206
+    [Location] => Oakland, California
+    [Fc] => false
+)
+Children's Hospital & Research Center OaklandOakland, CaliforniaArray
+(
+    [JvId] => 6727AB39EB39492DBA607548DF12C88E206
+    [JobTitle] => Staff Nurse II - Inpatient Nursing
+    [Company] => Kaiser Permanente
+    [AccquisitionDate] => 2018-6-1 12:22 AM
+    [URL] => https://de.jobsyn.org/6727AB39EB39492DBA607548DF12C88E206
+    [Location] => San Francisco, California
+    [Fc] => true
+)
+Kaiser PermanenteSan Francisco, CaliforniaArray
+(
+    [JvId] => 89BF24578E4E4795871952262C81021E206
+    [JobTitle] => Registered Nurse
+    [Company] => DaVita
+    [AccquisitionDate] => 2018-5-2 3:13 AM
+    [URL] => https://de.jobsyn.org/89bf24578e4e4795871952262c81021e206
+    [Location] => Walnut Creek, California
+    [Fc] => true
+)
+DaVitaWalnut Creek, CaliforniaArray
+(
+    [JvId] => 89BF24578E4E4795871952262C81021E206
+    [JobTitle] => Registered Nurse
+    [Company] => DaVita
+    [AccquisitionDate] => 2018-5-1 10:13 PM
+    [URL] => https://de.jobsyn.org/89BF24578E4E4795871952262C81021E206
+    [Location] => Walnut Creek, California
+    [Fc] => True
+)
+DaVitaWalnut Creek, CaliforniaArray
+(
+    [JvId] => 72D52C051ABA4F7EAEEA4F355806D51E206
+    [JobTitle] => Registered Nurse
+    [Company] => Genesis Healthcare
+    [AccquisitionDate] => 2018-4-30 4:37 PM
+    [URL] => https://de.jobsyn.org/72D52C051ABA4F7EAEEA4F355806D51E206
+    [Location] => San Leandro, California
+    [Fc] => true
+)
+Genesis HealthcareSan Leandro, CaliforniaArray
+(
+    [JvId] => E114321E42E44852AC13BC18C2872ACA206
+    [JobTitle] => Wellness Nurse
+    [Company] => Sunrise Senior Living
+    [AccquisitionDate] => 2018-5-9 11:08 PM
+    [URL] => https://de.jobsyn.org/E114321E42E44852AC13BC18C2872ACA206
+    [Location] => Burlingame, California
+    [Fc] => True
+)
+Sunrise Senior LivingBurlingame, CaliforniaArray
+(
+    [JvId] => 8AA0EBCFEFB44B5A904A1EE501D972FC206
+    [JobTitle] => Registered Nurse
+    [Company] => Genesis Healthcare
+    [AccquisitionDate] => 2018-4-30 4:37 PM
+    [URL] => https://de.jobsyn.org/8AA0EBCFEFB44B5A904A1EE501D972FC206
+    [Location] => San Leandro, California
+    [Fc] => true
+)
+Genesis HealthcareSan Leandro, CaliforniaArray
+(
+    [JvId] => 745FD2B884A143188C540DE8703B7906206
+    [JobTitle] => Registered Nurse
+    [Company] => Tiburcio Vasquez Health Center, Inc
+    [AccquisitionDate] => 2018-5-11 3:48 AM
+    [URL] => https://de.jobsyn.org/745FD2B884A143188C540DE8703B7906206
+    [Location] => San Leandro, California
+    [Fc] => False
+)
+Tiburcio Vasquez Health Center, IncSan Leandro, CaliforniaArray
+(
+    [JvId] => F02756370CC9410A966627B6910721E6206
+    [JobTitle] => Staff Nurse
+    [Company] => Dignity Health
+    [AccquisitionDate] => 2018-4-20 12:37 AM
+    [URL] => https://de.jobsyn.org/F02756370CC9410A966627B6910721E6206
+    [Location] => REDWOOD CITY, California
+    [Fc] => True
+)

@@ -1,0 +1,300 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJdYH43LiAhYARSOpSQhpkv2o",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJKV0pO52AhYARYy5_S1P7k7s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 37.7867112,
+               "lng" : -122.4116211
+            },
+            "southwest" : {
+               "lat" : 37.7750068,
+               "lng" : -122.4315076
+            }
+         },
+         "copyrights" : "Map data ©2018 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.9 mi",
+                  "value" : 3123
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 720
+               },
+               "end_address" : "155 9th St, San Francisco, CA 94103, USA",
+               "end_location" : {
+                  "lat" : 37.7755009,
+                  "lng" : -122.4138258
+               },
+               "start_address" : "1600 Webster St, San Francisco, CA 94115, USA",
+               "start_location" : {
+                  "lat" : 37.785583,
+                  "lng" : -122.4313481
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "276 ft",
+                        "value" : 84
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 37.7863237,
+                        "lng" : -122.4315076
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eWebster St\u003c/b\u003e toward \u003cb\u003eSutter St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{~reF|jgjV{@L[D{@J"
+                     },
+                     "start_location" : {
+                        "lat" : 37.785583,
+                        "lng" : -122.4313481
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 281
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 37.7867112,
+                        "lng" : -122.4283492
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSutter St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ocseF|kgjVe@oHGsASqCKaB"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7863237,
+                        "lng" : -122.4315076
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 187
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 37.7850471,
+                        "lng" : -122.4280217
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLaguna St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}eseFdxfjVxAO|ASrC]"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7867112,
+                        "lng" : -122.4283492
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 311
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : 37.7852881,
+                        "lng" : -122.4247019
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGeary Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "q{reFbvfjV^Eg@sH[iEIkA?KAI?I?K?["
+                     },
+                     "start_location" : {
+                        "lat" : 37.7850471,
+                        "lng" : -122.4280217
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 526
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 37.7806187,
+                        "lng" : -122.4237582
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGough St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "a}reFjafjVxBYHAv@Ir@IbC[n@Gn@KzAQRANCPC`@GfAMJANC|AQzAQ"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7852881,
+                        "lng" : -122.4247019
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 733
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 191
+                     },
+                     "end_location" : {
+                        "lat" : 37.7816678,
+                        "lng" : -122.4155242
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGolden Gate Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{_reFn{ejVi@iIg@{HC[[yEM}AM}BYmEEs@MsBUaD"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7806187,
+                        "lng" : -122.4237582
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 312
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 37.7789006,
+                        "lng" : -122.4149555
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHyde St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mfreF~gdjV\\EzAQf@G\\EtDa@nBWbAO"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7816678,
+                        "lng" : -122.4155242
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 417
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 97
+                     },
+                     "end_location" : {
+                        "lat" : 37.7762332,
+                        "lng" : -122.4116211
+                     },
+                     "html_instructions" : "\u003cb\u003eHyde St\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003e8th St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Burger King (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "cuqeFnddjVZYFIHMl@_Af@m@zAqB~@qAZe@x@gAfAyAp@aAd@m@"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7789006,
+                        "lng" : -122.4149555
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 193
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 37.7750068,
+                        "lng" : -122.4131808
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHoward St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mdqeFrocjVdDrElAbB"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7762332,
+                        "lng" : -122.4116211
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "259 ft",
+                        "value" : 79
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 37.7755009,
+                        "lng" : -122.4138258
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003e9th St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Burger King (on the right)\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "y|peFjycjVuAnBKP"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7750068,
+                        "lng" : -122.4131808
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{~reF|jgjVwAR{@Je@oH[eFKaBxAOpFq@^Eg@sHe@uGAU?U?[xBY`AKvDe@nEg@jC]tEi@qB{Z{@}Mc@uGxBWjJgAbAOZYFIv@mAbC_D|EyGvAoBrFvHaB`C"
+         },
+         "summary" : "Golden Gate Ave",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

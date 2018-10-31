@@ -1,0 +1,95 @@
+@mobile: ~"only screen and (max-width: 667px)";
+@desktop: ~"only screen and (min-width: 668px)";
+
+* {
+	-webkit-font-smoothing: antialiased;
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	outline: none;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+::selection {
+	
+}
+
+html, body {
+	margin: 20px;
+	
+	label {
+		width: 120px;
+		display: inline-block;
+	}
+	
+	input {
+		font-size: 16px;
+		padding: 5px;
+		width: 400px;
+	}
+	
+	input[type="submit"] {
+		width: 50px;
+	}
+	
+	button {
+		font-size: 13px;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	
+	h2 {
+		margin: 10px 0 0 0;
+		
+		a {
+			color: #000;
+			
+			&:hover {
+				text-decoration: none;
+			}
+		}
+	}
+	
+	h3 {
+		margin: 10px 0 0 0;
+	}
+	
+	.apply-filter-button {
+		margin: 3px;
+	}
+	
+	p {
+		line-height: 25px;
+		
+		b {
+			margin-bottom: 5px;
+			display: inline-block;
+		}
+	}
+	
+	label.period {
+		width: 72px;
+	    color: rgba(0, 0, 0, 0.5);
+	}
+	
+	.tag {
+		display: inline-block;
+	    padding: 7px 11px;
+	    color: white;
+	    font-weight: bold;
+	    border-radius: 3px;
+		margin-right: 10px;
+		margin-bottom: 10px;
+	}
+	
+	span.filter-highlight.highlighted {
+		background: #FFF685;
+	}
+	
+	@media @mobile {
+		
+	}
+	
+	@media @desktop {
+	
+	}
+
+}
