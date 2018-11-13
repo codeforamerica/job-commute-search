@@ -1,7 +1,9 @@
-# 🚆 🚘 🚍 Search Jobs by Commute Time & Cost
-### Tool to support job seekers in finding a job with a good driving or public transit commute.
+# 🚆 🚘 🚍 &nbsp; Search for Jobs by Commute Time & Cost
+### Tool for job seekers to find a job with a good driving or public transit commute.
 
 ⚡️ [View Live Site](https://job-commute-search.herokuapp.com)
+
+![screenshot](https://github.com/codeforamerica/job-commute-search/blob/master/readme/screenshot.png)
 
 #### User Impact
 Help job seekers find a job with a good driving or public transit commute.
