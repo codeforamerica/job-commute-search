@@ -1,8 +1,18 @@
 <?php
 	// get API keys
-	include("../secrets/api-keys.php");
-	// $api_key["google_directions"] = "XXXXXXX";
-	// $api_key["gas_feed"] = "XXXXXXX";
+	$api_key = Array();
+	if(	$_SERVER["REMOTE_ADDR"] == "localhost" ||
+		$_SERVER["REMOTE_ADDR"] == "leo.local" ||
+		$_SERVER["REMOTE_ADDR"] == "::1" ||
+		strpos($_SERVER["REMOTE_ADDR"], '192.168.1') !== false
+	) {
+		include("../secrets/api-keys.php");
+		// $api_key["google_directions"] = "XXXXXXX";
+		// $api_key["gas_feed"] = "XXXXXXX";
+	} else {
+		$api_key["google_directions"] = getenv("GOOGLE_API_KEY");
+		$api_key["gas_feed"] = getenv("GAS_API_KEY");
+	}
 
 	// save home address
 	if($_GET['home']) {
