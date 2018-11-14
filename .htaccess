@@ -1,0 +1,17 @@
+RewriteEngine On
+
+## Force SSL
+
+# Only if not localhost or port 8888
+RewriteCond %{SERVER_PORT} !^8888$
+RewriteCond %{HTTP_HOST} !=localhost
+RewriteCond %{HTTP_HOST} !=leo.local
+
+# Normal way (in case you need to deploy to NON-heroku)
+RewriteCond %{HTTPS} !=on
+
+# Heroku way
+RewriteCond %{HTTP:X-Forwarded-Proto} !https 
+
+# If no above conditions are met, redirect to https
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
